@@ -1,5 +1,5 @@
 name: ReplayAddon-BW1058
-main: dev.mrflyn.replayaddon.ReplayAddonMain
+main: dev.sosis.replay.ReplayPlugin
 version: 1.4
 api-version: 1.13
 softdepend:

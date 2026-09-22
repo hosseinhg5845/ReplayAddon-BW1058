@@ -35,7 +35,7 @@
     <dependencies>
         <dependency>
             <groupId>net.byteflux</groupId>
-            <artifactId>libby-bukkit</artifactId> <!-- Replace bukkit if you're using another platform -->
+            <artifactId>libby-bukkit</artifactId>
             <version>1.1.5</version>
         </dependency>
         <dependency>
@@ -62,7 +62,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <!-- HikariCP Logger -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
@@ -80,35 +79,35 @@
             <artifactId>PlaceholderAPI-2.10.9</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>H:\projectApisSpigot\PlaceholderAPI-2.10.9.jar</systemPath>
+            <systemPath>C:/Users/ASUS/Desktop/sorce/MCPlugins/ReplayAddon/libs/PlaceholderAPI.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>ProtocolLib</groupId>
             <artifactId>ProtocolLib</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>H:\ProjectAPIsSpigot\ProtocolLib.jar</systemPath>
+            <systemPath>C:/Users/ASUS/Desktop/sorce/MCPlugins/ReplayAddon/libs/ProtocolLib.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>PacketWrapper</groupId>
             <artifactId>PacketWrapper</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>H:\ProjectAPIsSpigot\PacketWrapper.jar</systemPath>
+            <systemPath>C:/Users/ASUS/Desktop/sorce/MCPlugins/ReplayAddon/libs/PacketWrapper.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>bedwars-plugin-22.7</groupId>
             <artifactId>bedwars-plugin-22.7</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>H:\ProjectAPIsSpigot\bedwars-plugin-22.7.jar</systemPath>
+            <systemPath>C:/Users/ASUS/Desktop/sorce/MCPlugins/ReplayAddon/libs/bedwars1058.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>Replay</groupId>
             <artifactId>Replay</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>H:\AdvancedReplay\target\Replay.jar</systemPath>
+            <systemPath>C:/Users/ASUS/Desktop/sorce/MCPlugins/ReplayAddon/libs/Replay.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.yaml.simpleyaml</groupId>

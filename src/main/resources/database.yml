@@ -1,11 +1,9 @@
-#Configure the database type (mysql,postgresql is compulsory for proxy-mode)
-#uses sqlite by default.
 database:
   mysql:
-    enabled: false
+    enabled: true
     host: 'localhost'
-    port: 25567
-    database: 'database_name'
+    port: 3306
+    database: 'bwreplay'
     username: 'root'
     password: '12345'
     ssl: false
@@ -16,7 +14,7 @@ database:
     enabled: false
     host: 'localhost'
     port: 25567
-    database: 'database_name'
+    database: 'bwreplay'
     username: 'root'
     password: '12345'
     ssl: false
